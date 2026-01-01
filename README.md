@@ -1,111 +1,49 @@
-# Hi, I'm Varun Teja 👋
+# Varun Teja
 
-🎯 **Building Veriflo | Reinforcement Learning & Trading | C++ Systems Engineer**  
-⚙️ Focused on building real products and decision-making systems — not demos
-
----
-
-## 🚀 Currently Building: Veriflo
-
-**Veriflo** is a product-focused project aimed at solving **real, practical problems** using
-strong engineering foundations.
-
-What I’m doing with Veriflo:
-- 🧠 Designing systems with **clear problem → solution → validation**
-- ⚙️ Writing **production-oriented code**, not throwaway prototypes
-- 📊 Thinking deeply about **data, decision logic, and scalability**
-- 🧪 Using this as a base to evolve toward **RL-driven decision systems**
-
-> Veriflo is not a side project — it’s an execution-focused build.
+**Building Veriflo | Reinforcement Learning | Real-World Problem Solver**  
+*Manual → Automated Trading Systems*
 
 ---
 
-## 🧠 About Me
-
-- 🤖 Strong interest in **Reinforcement Learning applied to trading & decision systems**
-- 📈 Passionate about **markets, incentives, and reward-driven optimization**
-- ⚡ Use **C++** for performance-critical components and simulations
-- 🧪 Believe RL fails in practice due to poor engineering — working to fix that
-- 🌍 Long-term goal: **Build high-impact systems at the intersection of RL, trading, and software**
+## What I Do
+- Building **Veriflo** — a real product solving real problems
+- Apply **Reinforcement Learning** to decision-making systems
+- Transform **manual trading logic into automated, learning-based systems**
 
 ---
 
-## 🎯 Current Technical Focus
-
-### 🤖 Reinforcement Learning
-- Sequential decision-making & MDPs
-- Reward design for noisy, real-world systems
-- Policy-based methods (Actor–Critic style thinking)
-
-### 📊 Trading & Markets
-- Market dynamics & order flow
-- Strategy evaluation & backtesting
-- Risk-aware performance metrics
-
-### ⚙️ C++ & Systems
-- Low-latency design principles
-- Simulation engines
-- Memory & performance optimization
+## Core Focus
+- **Reinforcement Learning**
+  - Sequential decision-making
+  - Reward design for noisy, real environments
+- **Trading Automation**
+  - From human intuition to systemized execution
+  - Rule-based → learning-driven systems
+- **Engineering**
+  - Practical, production-oriented systems
+  - Reliability over theory, execution over hype
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- **C++** — systems, performance, simulations
-- **Python** — RL research, experimentation, analysis
-
-### 🤖 RL / ML
-- PyTorch
-- Custom environments
-- Experiment-driven development
-
-### 📊 Trading
-- Backtesting pipelines
-- Strategy evaluation frameworks
-- Market data handling
-
-### ⚙️ Systems & Tools
-- Linux
-- Multithreading & IPC
-- Git & GitHub
-- CI/CD fundamentals
+## How I Work
+- Start from a **real problem**
+- Build a **working system**
+- Automate what was manual
+- Improve through **learning, not assumptions**
 
 ---
 
-## 🚧 Projects
+## Active Work
+- **Veriflo** *(Active)*  
+  Execution-focused platform under continuous development
 
-- 🔹 **Veriflo** *(Active)*  
-  Product-focused system under active development
-
-- 🔹 **RL Trading Environment** *(Planned / In Progress)*  
-  Market environment designed for RL agents
-
-- 🔹 **Order Book Simulator (C++)**  
-  High-performance simulator for realistic market behavior
-
-*(Building deliberately — quality over noise)*
+- **RL-Driven Trading Systems** *(In Progress)*  
+  Applying reinforcement learning to automate trading decisions
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
+Real-world problems are imperfect.  
+Reinforcement Learning works only when **engineering meets reality**.
 
-I don’t chase trends.  
-I chase **systems that survive contact with reality**.
-
-Reinforcement Learning + Trading only works when
-**engineering discipline comes first**.
-
-That’s the gap I’m focused on.
-
----
-
-## 📫 Connect
-
-- 📧 Email: **varuntejach2002@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/chvarunteja
-- 🧠 GitHub: https://github.com/varunteja0
-
----
-
-⭐ Always open to meaningful discussions around building real systems.
+That’s the space I build in.
